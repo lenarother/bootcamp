@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# output data
+visual_data_analysis/plots/
